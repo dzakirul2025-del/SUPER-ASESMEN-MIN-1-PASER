@@ -1,0 +1,8 @@
+{
+  "name": "SUPER ASESMEN MIN 1 PASER",
+  "description": "Generator Perangkat Asesmen dan Computer Based Test Terintegrasi MIN 1 Paser - Kementerian Agama Kab. Paser",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
